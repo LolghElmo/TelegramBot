@@ -1,6 +1,6 @@
 # Great Tutorial Bot - Telegram Bot Tutorial Series
 
-Welcome to the Great Tutorial Bot series! Here you will find all the code and resources used in a series of tutorial videos on how to create a Telegram bot using C# and the Telegram.Bot library. Each file has a number representing the video in the series.
+Welcome to the Telegram Bot! Here you will find all the code and resources used in a series of tutorial videos on how to create a Telegram bot using C# and the Telegram.Bot library. Each file has a number representing the video in the series.
 
 ## Videos
 
